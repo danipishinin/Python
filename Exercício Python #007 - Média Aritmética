@@ -1,0 +1,4 @@
+p1 = int(input('Digite sua nota da P1'))
+p2 = int(input('Digite sua nota da P2'))
+
+print(f'A media final é: {(p1+p2)/2}')
